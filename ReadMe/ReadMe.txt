@@ -11,7 +11,7 @@ nature of the channel is extremely convenient for both businesses and customers,
 parties to have complete context into the conversation and continue the thread as they see fit.
 
 Step1: Download all files and put it in a separet folder and name it as "Project".
-Step2: Create another folder and name it as "Catchup", cut all the 10 files except "ReadMe" and ".idea.rar" and paste it in "Catchup".
+Step2: Create another folder and name it as "Catchup", cut all the 10 files(extract ".gradle") except "ReadMe" and ".idea.rar" and paste it in "Catchup".
 Step3: Cut the "ReadMe" and ".idea.rar" Rar file and paste inside "Project"  file and extract ".idea".
 
 THIS SHOULD BE THE FORMATE Project-->Catchup         .idea
